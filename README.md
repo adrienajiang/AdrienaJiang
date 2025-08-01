@@ -10,13 +10,15 @@ Welcome to my GitHub! I'm a Computer Science and Applied Mathematics & Statistic
 
 ## 🛠 Tech Stack
 
-**Programming Languages:** Python, Java, R, C, OCaml  
+**Languages:** Python, Java, R, C, JavaScript, HTML, CSS, Ocaml 
 
-**Data Science & ML:** Pandas, NumPy, scikit-learn, TensorFlow, Seaborn, Matplotlib  
+**Libraries & Frameworks**: scikit-learn, Pandas, NumPy, matplotlib, spaCy, Node.js, React 
 
-**Web Development & Backend:** HTML, CSS, JavaScript, Node.js, React  
+**Development Tools:** Jupyter Notebooks, Google Colab, VS Code, Figma, Jest
 
-**Tools & Platforms:** Jupyter Notebooks, Google Colab, Git, GitHub, VS Code, Figma, MongoDB, Jest
+**Databases:** MongoDB
+
+**Version Control**: Git, GitHub
 
 
 ## 📂 Projects
