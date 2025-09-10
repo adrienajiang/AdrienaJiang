@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adriena!
 
-Welcome to my GitHub! I'm a Computer Science and Applied Mathematics & Statistics student at Stony Brook University with a passion for **web development, data science, artificial intelligence (AI) and machine learning (ML)**. I enjoy building impactful projects and exploring how technology can solve real-world challenges. Currently, I'm focusing on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals!
+Welcome to my GitHub! I'm a Computer Science and Applied Mathematics & Statistics student at Stony Brook University with a passion for **artificial intelligence (AI), machine learning (ML), data science and web development**. I enjoy building impactful projects and exploring how technology can solve real-world challenges. Currently, I'm focusing on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals!
 
 ## 🌟 About Me
 📚 **Education:** Junior at Stony Brook University double majoring in Computer Science & Applied Mathematics and Statistics    
