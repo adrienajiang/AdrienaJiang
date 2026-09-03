@@ -37,7 +37,7 @@ A fantasy baseball draft-management platform built to simplify the auction draft
 
 A machine learning project designed to identify misinformation by analyzing news articles and classifying them as real or fake. Trained on over 44,000 articles, the project helps evaluate the credibility and trustworthiness of online news content.
 
-📌 **[Epsilon-Robust Guarding of Simple Polygons](#)**
+📌 **[Epsilon-Robust Guarding of Simple Polygons](https://github.com/adrienajiang/Epsilon-Robust-Guarding)**
 
 An interactive application that explores how guards can be strategically placed to provide robust visibility coverage within polygonal spaces. Users can create or load polygons, adjust the ε robustness parameter, and visualize guard placements, witnesses, and visibility relationships in real time.
 
