@@ -1,31 +1,49 @@
 # 👋 Hi, I'm Adriena!
 
-Welcome to my GitHub! I'm a Computer Science and Applied Mathematics & Statistics student at Stony Brook University with a passion for **artificial intelligence (AI), machine learning (ML), data science and web development**. I enjoy building impactful projects and exploring how technology can solve real-world challenges. Currently, I'm focusing on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals!
+Welcome to my GitHub! I'm a Master's student in Computer Science at Stony Brook University with interests in **artificial intelligence (AI), machine learning (ML), data science, and software development**. I enjoy building impactful projects and exploring how technology can be used to solve real-world problems. Currently, I'm focused on developing machine learning models, expanding my data science skills, and building full-stack applications. I'm seeking opportunities where I can contribute to meaningful projects while continuing to learn and grow as a developer.
 
 ## 🌟 About Me
-📚 **Education:** Junior at Stony Brook University double majoring in Computer Science & Applied Mathematics and Statistics    
 
-💡 **Interests:** Web Development, Machine Learning, Data Science, Artificial Intelligence
+📚 **Education**: Master’s in Computer Science at Stony Brook University
+
+💡 **Interests**: Artificial Intelligence (AI), Machine Learning (ML), Data Science and Software Development
+
+🔎 **Currently Exploring**: Building real-world applications with machine learning and data science
+
 
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, Java, R, C, JavaScript, HTML, CSS, Ocaml 
+**Languages:** Java, Python, R, C, JavaScript, TypeScript, HTML, CSS 
 
-**Libraries & Frameworks**: scikit-learn, Pandas, NumPy, matplotlib, spaCy, Node.js, React 
+**Libraries & Frameworks:** React, Node.js, Next.js, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn 
 
-**Development Tools:** Jupyter Notebooks, Google Colab, VS Code, Figma, Jest
+**Development Tools:** Jupyter Notebooks, Google Colab, VS Code, Figma
 
 **Databases:** MongoDB
 
-**Version Control**: Git, GitHub
+**APIs:** REST APIs
+
+**Version Control:** Git, GitHub
 
 
 ## 📂 Projects
 
-📌 **[Random Forest Classifier on Airbnb Dataset](#)** 
+📌 **[Fantasy Baseball Draft-Kit](#)**
 
-Developed a random forest classifier model to analyze the Airbnb NYC dataset, predicting room type based on features like location, pricing, and availability. This project helped refine my skills in data preprocessing, model implementation, and evaluation.
+A fantasy baseball draft-management platform built to simplify the auction draft experience. DraftKit integrates with an MLB data API to provide real-world player information and statistics, allowing users to research players, manage team rosters and budgets, and track draft activity in one place.
+
+📌 **[Fake News Detection and Classification](#)**
+
+A machine learning project designed to identify misinformation by analyzing news articles and classifying them as real or fake. Trained on over 44,000 articles, the project helps evaluate the credibility and trustworthiness of online news content.
+
+📌 **[NYC Airbnb Room Type Prediction](#)** 
+
+A data-driven project that predicts Airbnb room types using listing information. By analyzing factors such as location, price, and availability, the project identifies patterns across NYC Airbnb listings to automatically categorize properties by room type. 
+
+📌 **[Reddit Clone](#)** 
+
+A full-stack social platform inspired by Reddit where users can create posts, join communities, comment on discussions, vote on content, search for posts and communities, and manage their profiles. The platform recreates Reddit’s core community-driven experience, allowing users to connect and interact around shared interests.
 
 ## 🤝 Let's Connect
 
@@ -33,7 +51,7 @@ Developed a random forest classifier model to analyze the Airbnb NYC dataset, pr
 
 💼 **LinkedIn:** [linkedin.com/in/adrienajiang](https://www.linkedin.com/in/adrienajiang/)  
 
-Feel free to reach out if you'd like to collaborate on a project or chat about tech, AI, ML, or web development! I’m always excited to collaborate, share ideas, and meet new people!
+I'm excited to collaborate, chat and meet new people!
 
 
 <!--
