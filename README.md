@@ -45,7 +45,7 @@ An interactive application that explores how guards can be strategically placed 
 
 A data-driven project that predicts Airbnb room types using listing information. By analyzing factors such as location, price, and availability, the project identifies patterns across NYC Airbnb listings to automatically categorize properties by room type. 
 
-📌 **[Reddit Clone](https://github.com/ckane-sbu-s25-cse316/project-s25-ketchup-mayonnaise-sriracha)** 
+📌 **[Phreddit](https://github.com/ckane-sbu-s25-cse316/project-s25-ketchup-mayonnaise-sriracha)** 
 
 A full-stack social platform inspired by Reddit where users can create posts, join communities, comment on discussions, vote on content, search for posts and communities, and manage their profiles. The platform recreates Reddit’s core community-driven experience, allowing users to connect and interact around shared interests.
 
