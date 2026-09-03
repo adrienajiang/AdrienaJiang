@@ -41,7 +41,7 @@ A machine learning project designed to identify misinformation by analyzing news
 
 An interactive application that explores how guards can be strategically placed to provide robust visibility coverage within polygonal spaces. Users can create or load polygons, adjust the ε robustness parameter, and visualize guard placements, witnesses, and visibility relationships in real time.
 
-📌 **[NYC Airbnb Room Type Prediction](#)** 
+📌 **[NYC Airbnb Room Type Prediction](https://github.com/adrienajiang/My-eCornell-Portfolio)** 
 
 A data-driven project that predicts Airbnb room types using listing information. By analyzing factors such as location, price, and availability, the project identifies patterns across NYC Airbnb listings to automatically categorize properties by room type. 
 
